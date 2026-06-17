@@ -1,6 +1,6 @@
 ## Project2 decodelabs
 
-# Iris Flower Classification Using KNN
+# Iris Flower Classification
 
 A Machine Learning classification project that predicts the species of an Iris flower using sepal and petal measurements. The project uses the K-Nearest Neighbors (KNN) algorithm from Scikit-Learn.
 
@@ -92,9 +92,5 @@ python main.py
 * Model Evaluation
 * Model Persistence
 
-## Author
-
-Aryan Mali
-B.Tech Artificial Intelligence & Data Science
 
 
